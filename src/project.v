@@ -5,7 +5,8 @@
 
 `default_nettype none
 
-module tt_um_example (
+// module tt_um_example (
+   module tt_um_hugodiasg_temp_sensor_clock_divider (
     input  wire       VGND,
     input  wire       VDPWR,    // 1.8v power supply
 //    input  wire       VAPWR,    // 3.3v power supply
